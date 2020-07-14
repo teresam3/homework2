@@ -1,3 +1,9 @@
 .magenta {
     background-color: magenta;
 }
+
+.card {
+    background-color: lightpink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 50px;
+}
