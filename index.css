@@ -1,9 +1,11 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
-
+.image {
+    size: 390px;
+}
 
 
 .magenta {
-    background-color: magenta;
+    background-color:orange;
 }
