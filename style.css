@@ -7,5 +7,12 @@
     font-size: larger;
 }
 .image {
-    margin: 
+    margin: 33%;
+    padding: float left;
+} 
+.grid {
+    background-color: pink;
+}
+.body {
+    background-color: rosybrown;
 }
