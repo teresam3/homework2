@@ -1,4 +1,9 @@
 .magenta {
     font: Helvetica, "Helvetica Neue", Arial, sans-serif;
     background-color: magenta
+
+}
+.name {
+    font-weight: bold;
+    font-size: larger;
 }
