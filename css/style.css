@@ -12,3 +12,10 @@
 .body {
     background-color: rosybrown;
 }
+.port-img {
+    max-width: 150px;
+    height: auto; 
+}
+body{
+    background-color: red;
+}
