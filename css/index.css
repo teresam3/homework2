@@ -3,7 +3,7 @@ body {
     background-color: rosybrown;
 }
 .image {
-    width: 100%;
+    max-width: 100%;
     height: auto;
     border: 0px;
     padding: 0px;
